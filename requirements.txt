@@ -1,4 +1,4 @@
-torch torchtext
+torch
 -Uqq fastbook fastai==2.2.5
 voila
 jupyter serverextension enable --sys-prefix voila 
